@@ -1,4 +1,4 @@
-# DevOps-Project-Responsive-Website-with-GradleBuildTool
+# DevOps-Project-Responsive-Website-with-GradleBuildTool-Aws
 
 Architecture diagram of the project is as shown in the screenshot attached below.
 
