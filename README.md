@@ -36,6 +36,11 @@ Finally access the Responsive Website as shown in the screeshot attached below.
 
 <br></br>
 <br></br>
+```
+OpenJDK Docker Image is depricated so in this project eclipse-temurin docker image has been used as a base image in the Dockerfile. 
+```
+<br></br>
+<br></br>
 <br></br>
 <br></br>
 <br></br>
